@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-origin: border-box;
+    background-color: #252025;
+    background-repeat: round;
+    color: rgb(255, 255, 255);
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: larger;
+    font-family: Papyrus, fantasy;
+}
+
+button {
+    font-size: larger;
+    background-color: #252025;
+    border-radius: 0.6cm;
+    border-color: rgb(255, 0, 255);
+    border-width: 0.1cm;
+    color:rgb(255, 0, 255);
+    font-family: Papyrus, fantasy;
+}
+
+button, img {
+    display: block;
+    margin: 10px auto;
+}
